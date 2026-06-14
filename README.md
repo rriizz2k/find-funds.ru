@@ -134,6 +134,8 @@ find-funds/
 <img width="1758" height="1333" alt="image" src="https://github.com/user-attachments/assets/f1c8b905-f224-4c04-aa80-674489e681fb" />
 
 
-## Автор
+## Команда и вклад
 
-Руслан · [@mirzoevXO](https://t.me/mirzoevXO)
+**Руслан · [@mirzoevXO](https://t.me/mirzoevXO)** — Full-stack разработка платформы: реализовал REST API на Node.js/Express, настроил JWT-based authentication flow, работу с MySQL-моделями и основными CRUD-сценариями для пользователей, видео-питчей, профилей, подписок и инвестиционных офферов. Также собрал media upload pipeline через Multer, интегрировал backend с React/Vite frontend, настроил routing, страницы и компоненты для ключевых user flows: регистрация, авторизация, просмотр питчей, профиль стартапа, поиск и отправка офферов.
+
+**Рустам · [@rustamgasymov](https://github.com/rustamgasymov)** — Финансовая модель и DevOps: проработка экономики проекта, сценариев монетизации, а также настройка окружения, запуск сервисов и поддержка инфраструктурной части.
