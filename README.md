@@ -119,6 +119,15 @@ find-funds/
 | POST | `/startups/:id/subscribe` | Подписаться на стартап |
 | GET | `/api/search?q=` | Поиск по видео и пользователям |
 
+## Скриншоты
+Домашняя страница
+<img width="1486" height="1198" alt="image" src="https://github.com/user-attachments/assets/b4633242-f47a-4784-b898-070c7967b3dc" />
+Видео страница
+<img width="1735" height="1324" alt="image" src="https://github.com/user-attachments/assets/0f040b2a-2f06-4e71-9a2c-db44b291f179" />
+Профиль
+<img width="1758" height="1333" alt="image" src="https://github.com/user-attachments/assets/f1c8b905-f224-4c04-aa80-674489e681fb" />
+
+
 ## Автор
 
 Руслан · [@mirzoevXO](https://t.me/mirzoevXO)
