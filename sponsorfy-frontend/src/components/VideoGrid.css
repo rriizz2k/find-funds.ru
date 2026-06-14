@@ -1,0 +1,12 @@
+/* VideoGrid.css */
+.video-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 24px;
+    padding: 16px;
+}
+
+.video-card-container {
+    position: relative;
+    overflow: visible;
+}

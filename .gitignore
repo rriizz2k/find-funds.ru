@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+sponsorfy-backend/node_modules/
+sponsorfy-frontend/node_modules/
+
+# Environment secrets
+sponsorfy-backend/.env
+.env
+
+# Build output
+sponsorfy-frontend/dist/
+sponsorfy-frontend/dist-ssr/
+
+# Vite cache
+sponsorfy-frontend/.vite/
+
+# MeiliSearch data
+data.ms/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Python
+__pycache__/
+*.pyc
+venv/
